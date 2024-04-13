@@ -1,0 +1,22 @@
+.container {
+    width: 300px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+}
+button{
+    display: block;
+    margin: 10px auto;
+}
+
+.pi{
+    color: rgb(255, 0, 0);
+    display: none;
+}
+.po{
+    display: block;
+}
